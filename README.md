@@ -1,3 +1,4 @@
-# My Awesome Book
+# My Algorithm Training
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书用于记录自己对算法题的一些见解。
+
