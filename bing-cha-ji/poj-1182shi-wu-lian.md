@@ -1,6 +1,6 @@
 ## 食物链 {#食物链}
 
-Description
+**Description**
 
 动物王国中有三类动物A,B,C，这三类动物的食物链构成了有趣的环形。A吃B， B吃C，C吃A。
 
@@ -22,7 +22,7 @@ Description
 
 你的任务是根据给定的N（1 &lt;= N &lt;= 50,000）和K句话（0 &lt;= K &lt;= 100,000），输出假话的总数。
 
-Input
+**Input**
 
 第一行是两个整数N和K，以一个空格分隔。
 
@@ -32,11 +32,11 @@ Input
 
 若D=2，则表示X吃Y。
 
-Output
+**Output**
 
 只有一个整数，表示假话的数目。
 
-Sample Input
+**Sample Input**
 
 ```
 100 7
@@ -47,14 +47,12 @@ Sample Input
 1 1 3 
 2 3 1 
 1 5 5
-
 ```
 
-Sample Output
+**Sample Output**
 
 ```
 3
-
 ```
 
 ---
