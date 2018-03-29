@@ -61,4 +61,10 @@
   * [POJ 1182食物链](bing-cha-ji/poj-1182shi-wu-lian.md)
   * [畅通工程之最低成本建设问题](bing-cha-ji/chang-tong-gong-cheng-zhi-zui-di-cheng-ben-jian-she-wen-ti.md)
 * [图](tu.md)
+  * 图的搜索
+    * [二分图判定](tu/er-fen-tu-pan-ding.md)
+  * [最短路问题](tu/zui-duan-lu-wen-ti.md)
+    * [单源最短路问题1\(Bellman-Ford算法\)](tu/zui-duan-lu-wen-ti/dan-yuan-zui-duan-lu-wen-ti-1-bellman-ford-suan-6cd529.md)
+    * [单源最短路问题2\(Dijkstra算法\)](tu/zui-duan-lu-wen-ti/dan-yuan-zui-duan-lu-wen-ti-2-dijkstra-suan-6cd529.md)
+    * [任意两点间的最短路问题\(Floyd-Warshall算法\)](tu/zui-duan-lu-wen-ti/ren-yi-liang-dian-jian-de-zui-duan-lu-wen-989828-floyd-warshall-suan-6cd529.md)
 
