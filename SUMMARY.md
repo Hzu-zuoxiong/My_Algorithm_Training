@@ -71,4 +71,5 @@
   * [最小生成树](tu/zui-xiao-sheng-cheng-shu.md)
     * [最小生成树问题1\(Prim算法\)](tu/zui-xiao-sheng-cheng-shu/zui-xiao-sheng-cheng-shu-wen-ti-1-prim-suan-6cd529.md)
     * [最小生成树问题2\(Kruskal算法\)](tu/zui-xiao-sheng-cheng-shu/zui-xiao-sheng-cheng-shu-wen-ti-2-kruskal-suan-6cd529.md)
+      * [POJ 3723-Conscription](tu/zui-xiao-sheng-cheng-shu/zui-xiao-sheng-cheng-shu-wen-ti-2-kruskal-suan-6cd529/poj-3723-conscription.md)
 
