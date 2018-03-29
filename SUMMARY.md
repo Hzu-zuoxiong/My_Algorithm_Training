@@ -31,7 +31,7 @@
   * [HDU 1506 Largest Rectangle in a Histogram](dong-tai-gui-hua/hdu-1506-largest-rectangle-in-a-histogram.md)
 * [栈](zhan.md)
   * [单调栈](dan-diao-zhan.md)
-    * Bad Hair Day
+    * [Bad Hair Day](dan-diao-zhan/bad-hair-day.md)
 * [heap堆](heapdui.md)
   * [Sequence Median](heapdui/sequence-median.md)
 * [博弈论](bo-yi-lun.md)
@@ -68,4 +68,7 @@
     * [单源最短路问题2\(Dijkstra算法\)](tu/zui-duan-lu-wen-ti/dan-yuan-zui-duan-lu-wen-ti-2-dijkstra-suan-6cd529.md)
     * [任意两点间的最短路问题\(Floyd-Warshall算法\)](tu/zui-duan-lu-wen-ti/ren-yi-liang-dian-jian-de-zui-duan-lu-wen-989828-floyd-warshall-suan-6cd529.md)
     * [路径还原](tu/zui-duan-lu-wen-ti/lu-jing-huan-yuan.md)
+  * [最小生成树](tu/zui-xiao-sheng-cheng-shu.md)
+    * [最小生成树问题1\(Prim算法\)](tu/zui-xiao-sheng-cheng-shu/zui-xiao-sheng-cheng-shu-wen-ti-1-prim-suan-6cd529.md)
+    * [最小生成树问题2\(Kruskal算法\)](tu/zui-xiao-sheng-cheng-shu/zui-xiao-sheng-cheng-shu-wen-ti-2-kruskal-suan-6cd529.md)
 
