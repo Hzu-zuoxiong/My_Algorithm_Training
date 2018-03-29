@@ -67,4 +67,5 @@
     * [单源最短路问题1\(Bellman-Ford算法\)](tu/zui-duan-lu-wen-ti/dan-yuan-zui-duan-lu-wen-ti-1-bellman-ford-suan-6cd529.md)
     * [单源最短路问题2\(Dijkstra算法\)](tu/zui-duan-lu-wen-ti/dan-yuan-zui-duan-lu-wen-ti-2-dijkstra-suan-6cd529.md)
     * [任意两点间的最短路问题\(Floyd-Warshall算法\)](tu/zui-duan-lu-wen-ti/ren-yi-liang-dian-jian-de-zui-duan-lu-wen-989828-floyd-warshall-suan-6cd529.md)
+    * [路径还原](tu/zui-duan-lu-wen-ti/lu-jing-huan-yuan.md)
 
