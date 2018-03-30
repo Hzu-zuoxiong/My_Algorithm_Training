@@ -1,6 +1,6 @@
 # heap堆 {#heap堆}
 
-STL中的堆默认是最大堆，想用最小堆的话，必须在push\_heap， pop\_heap，make\_heap等每一个函数后面加第三个参数greater&lt;int&gt;\(\)，括号不能省略。+
+STL中的堆默认是最大堆，想用最小堆的话，必须在push\_heap， pop\_heap，make\_heap等每一个函数后面加第三个参数greater&lt;int&gt;\(\)，括号不能省略。
 
 ---
 
