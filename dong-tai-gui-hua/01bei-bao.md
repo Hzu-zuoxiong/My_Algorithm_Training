@@ -41,7 +41,7 @@ for (int i=1;i<=n;++i) {　
 for (int i=1;i<=n;++i) {
     for (int j=v;j>=0;--j) {
         if(c[i]<=j)
-           f[j]=max(f[j],f[j-c[i]]+c[i]);
+           f[j]=max(f[j],f[j-c[i]]+w[i]);
         else 
            f[j]=f[j];
      }
