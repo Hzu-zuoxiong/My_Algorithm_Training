@@ -23,6 +23,7 @@
     * [包子凑数](bao-zi-cou-shu.md)
     * [k倍区间](kbei-qu-jian.md)
     * [最大子阵](zui-da-zi-zhen.md)
+  * [2017年第八届蓝桥杯试题](2017nian-di-ba-jie-lan-qiao-bei-shi-ti.md)
 * [动态规划](dong-tai-gui-hua.md)
   * [01背包](dong-tai-gui-hua/01bei-bao.md)
   * [完全背包](dong-tai-gui-hua/wan-quan-bei-bao.md)

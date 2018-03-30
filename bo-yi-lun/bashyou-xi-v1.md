@@ -22,7 +22,6 @@ Sample Input
 4 2
 7 3
 8 3
-
 ```
 
 Sample Output
@@ -32,7 +31,6 @@ B
 A
 A
 B
-
 ```
 
 ---
