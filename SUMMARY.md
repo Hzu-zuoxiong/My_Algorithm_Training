@@ -13,7 +13,7 @@
   * [L2-009. 抢红包](chapter1/l2-009-qiang-hong-bao.md)
   * [L2-014. 列车调度](chapter1/l2-014-lie-che-diao-du.md)
   * [L2-020. 功夫传人](chapter1/l2-020-gong-fu-chuan-ren.md)
-* 蓝桥杯
+* [蓝桥杯](lan-qiao-bei.md)
   * [基础练习](ji-chu-lian-xi.md)
     * [阶乘计算](ji-chu-lian-xi/jie-cheng-ji-suan.md)
     * [高精度加法](ji-chu-lian-xi/gao-jing-du-jia-fa.md)
@@ -56,7 +56,7 @@
   * [字典树](shu/zi-dian-shu.md)
     * [统计难题](shu/zi-dian-shu/tong-ji-nan-ti.md)
   * [Tree Recovery](shu/tree-recovery.md)
-* 回溯法
+* [回溯法](hui-su-fa.md)
   * [八皇后问题](ba-huang-hou-wen-ti.md)
 * [并查集](bing-cha-ji.md)
   * [POJ 1182食物链](bing-cha-ji/poj-1182shi-wu-lian.md)
