@@ -1,6 +1,6 @@
 # My Algorithm Training
 
-本书用于记录自己对算法题的一些见解。
+本书作为算法题的笔记。书籍链接：[https://hzu-zuoxiong.gitbooks.io/my\_algorithm\_training/content/](https://hzu-zuoxiong.gitbooks.io/my_algorithm_training/content/ "书籍链接")
 
 ## 目录
 
@@ -147,8 +147,4 @@
 ##### [最小生成树问题2\(Kruskal算法\)](/tu/zui-xiao-sheng-cheng-shu/zui-xiao-sheng-cheng-shu-wen-ti-2-kruskal-suan-6cd529.md)
 
 [POJ 3723-Conscription](/tu/zui-xiao-sheng-cheng-shu/zui-xiao-sheng-cheng-shu-wen-ti-2-kruskal-suan-6cd529/poj-3723-conscription.md)
-
-
-
-
 
